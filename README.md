@@ -6,4 +6,3 @@ Utilized C/C++, OpenGL libraries to design a 3D lighthouse model with accurate l
 
 ![light house output](https://github.com/Deepak-Achar/Light-House/assets/90599054/4db2d76f-14a5-4e79-b2f3-680c23ac0be3)
 
-![light house output](https://github.com/Deepak-Achar/Light-House/assets/90599054/3c7ebaff-fe1d-46c0-b3d8-e796f7beda59)
